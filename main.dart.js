@@ -69793,7 +69793,7 @@ g.toString
 return new A.uO(new A.w_(A.dl(A.q2(B.cv,A.a([B.Gh,A.ahP(0,new A.qj(q,A.aif(new A.Hi(p,A.acQ(A.a([o,n,m,l,B.ii,j,B.ii,A.dl(A.oI(new A.wg(A.cE(A.a([A.cE(d,A.aG(g).p3.y.dL(B.i),"Av. M\xe9xico 359\nCol.Manzanastitla, Cuajimalpa")],t.VO),h,"Enttorno Residencial\n"),B.dC,d),B.bf),d,i.a.a*0.7),B.ii,f.a_P(),A.dl(d,A.bh(a,d,s).w.a.b*0.1,d)],k),B.cK,B.Eb,B.hM),d),p,!0),d))],k),B.a4,B.ck),d,r.a.a),B.l,d),e,!1,d)}}
 A.a76.prototype={
 $2(a,b){var s=null,r=A.bh(a,s,t.w).w,q=b.b*0.3
-return A.om(s,A.ai8(A.a([A.dl(A.oI(A.nj("SAB\n2\nSEPT",s,A.aG(a).p3.b.dL(B.i),B.dC),B.bf),s,q),A.om(s,s,s,B.x1,100,s,s,1),A.dl(A.oI(A.nj("14:00\nHRS",s,A.aG(a).p3.b.dL(B.i),B.dC),B.bf),s,q)],t.E),B.cK,B.Ec,B.hM),s,B.jc,s,s,B.zA,r.a.a*0.7)},
+return A.om(s,A.ai8(A.a([A.dl(A.oI(A.nj("SAB\n2\nSEPT",s,A.aG(a).p3.b.dL(B.i),B.dC),B.bf),s,q),A.om(s,s,s,B.x1,100,s,s,1),A.dl(A.oI(A.nj("15:00\nHRS",s,A.aG(a).p3.b.dL(B.i),B.dC),B.bf),s,q)],t.E),B.cK,B.Ec,B.hM),s,B.jc,s,s,B.zA,r.a.a*0.7)},
 $S:415}
 A.a77.prototype={
 $0(){var s=0,r=A.W(t.H)
